@@ -4,7 +4,7 @@
 
 ## 下載
 
-到 [Releases](https://github.com/Peggy2005/CNdict-tool/releases/latest) 下載 `CNdict-tool-v*.exe`，雙擊執行（不用安裝），會自動打開瀏覽器。
+**[直接下載最新版 CNdict-tool.exe](https://github.com/Peggy2005/CNdict-tool/releases/latest/download/CNdict-tool.exe)**（或到 [Releases](https://github.com/Peggy2005/CNdict-tool/releases) 看所有版本），雙擊執行（不用安裝），會自動打開瀏覽器。
 
 ## 功能
 
